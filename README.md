@@ -1,7 +1,7 @@
 # ABOUT ME 👋
 
 ```javascript
-export default {
+export default = {
   name: 'João Gabriel Rodrigues',
   from: 'São Carlos, SP, Brasil',
   profession: 'Desenvolvedor Web Full Stack',
@@ -10,7 +10,7 @@ export default {
   linkedin: 'https://www.linkedin.com/in/joaogrs159/',
   contato: '(31) 9982056258',
   description: {
-    myProfile: `Sou natural de Belo horizonte, porém hoje moro em São Carlos, SP. Em 2021 fui aprovado em Estatistíca e Ciência de Dados na USP,
+    myProfile: `Sou natural de Belo Horizonte, porém hoje moro em São Carlos, SP. Em 2021 fui aprovado em Estatistíca e Ciência de Dados na USP,
     onde começou meu interesse por tecnologia. No mesmo ano fui aprovado para participar da Turma XP. Uma turma no curso de desenvolvimento fullstack da Trybe patrocinada pela XP Inc. `,
     myObjective: `Atualmente estou finalizando o módulo de back-end na Trybe, após já ter passado pelos blocos de conceitos do desenvolvimento web e Front-end.
     Agora busco oportunidades de me inserir no mercado de trabalho. `,
