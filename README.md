@@ -1,15 +1,39 @@
-<h1 align="center">Hi 👋, I'm João Gabriel Rodrigues</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+# ABOUT ME 👋
 
-- 🔭 I’m currently working on **Trybewallet (e-commerce page)**
+```javascript
+export default {
+  name: 'João Gabriel Rodrigues',
+  from: 'São Carlos, SP, Brasil',
+  profession: 'Desenvolvedor Web Full Stack',
+  hobbies: ['Leitura', 'League Of Legends', 'Comer'],
+  email: ['jgabrielrodrigues15@gmail.com'],
+  linkedin: 'https://www.linkedin.com/in/joaogrs159/',
+  contato: '(31) 9982056258',
+  description: {
+    myProfile: `Sou natural de Belo horizonte, porém hoje moro em São Carlos, SP. Em 2021 fui aprovado em Estatistíca e Ciência de Dados na USP, onde começou meu interesse por tecnologia. No mesmo ano fui aprovado para participar da Turma XP. Uma turma no curso de desenvolvimento fullstack da Trybe patrocinada pela XP Inc. `
+    myObjective: `Atualmente estou finalizando o módulo de back-end na Trybe, após já ter passado pelos blocos de conceitos do desenvolvimento web e Front-end. Agora busco oportunidades de me inserir no mercado de trabalho. `,
+  },
+  skills: {
+    languages: [
+      'Javascript', 'Python',
+    ],
+    backend: [
+      'Node.js', 'Express', 'ORM', 'Sequelize',
+      'JWT', 'MySQL', 'Postman', 'REST API', 'MSC'
+    ],
+    frontend: [
+      'HTML5', 'CSS3', 'Javascript',
+      'React.js', 'Redux', 'Context API e Hooks',
+      'RTL', 'Cypress', 'Jest',
+    ],
+    tools: [
+      'Git', 'Github', 'Trello' 
+    ],
+  },
+};
+```
 
-- 🌱 I’m currently learning **Hooks, UI, Context API**
-
-- 💬 Ask me about **React, Redux, Jest**
-
-- 📫 How to reach me **jgabrielrodrigues15@gmail.com**
-
-- 👨🏽‍🎓 About Trybe technology school: **Trybe is a technology school that is genuinely committed to the professional success of its students. There are more than 1500 hours of training, distributed between content study, live classes, individual and group projects and socio-emotional skills development. The school invests all the resources necessary for people to learn the technical skills of a developer in practice, working on projects with real challenges, and evolving their soft skills, in addition to offering connection to the job market and helping with hiring.**
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
