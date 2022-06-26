@@ -8,7 +8,7 @@ export default = {
   hobbies: ['Leitura', 'League Of Legends', 'Comer'],
   email: ['jgabrielrodrigues15@gmail.com'],
   linkedin: 'https://www.linkedin.com/in/joaogrs159/',
-  contato: '(31) 9982056258',
+  contato: '(31) 998205-6258',
   description: {
     myProfile: `Sou natural de Belo Horizonte, porém hoje moro em São Carlos, SP. Em 2021 fui aprovado em Estatistíca e Ciência de Dados na USP,
     onde começou meu interesse por tecnologia. No mesmo ano fui aprovado para participar da Turma XP. Uma turma no curso de desenvolvimento fullstack da Trybe patrocinada pela XP Inc. `,
@@ -29,7 +29,7 @@ export default = {
       'RTL', 'Cypress', 'Jest',
     ],
     tools: [
-      'Git', 'Github', 'Trello' 
+      'Git', 'Github', 'Trello', 'Slack'
     ],
   },
 };
