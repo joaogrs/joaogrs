@@ -4,7 +4,7 @@
 export default = {
   name: 'João Gabriel Rodrigues',
   from: 'São Carlos, SP, Brasil',
-  profession: 'Desenvolvedor Web Full Stack',
+  profession: 'Desenvolvedor Web Full Stack e estudante de Ciência de Dados',
   hobbies: ['Leitura', 'League Of Legends', 'Comer'],
   email: ['jgabrielrodrigues15@gmail.com'],
   linkedin: 'https://www.linkedin.com/in/joaogrs159/',
@@ -17,7 +17,7 @@ export default = {
   },
   skills: {
     languages: [
-      'Javascript', 'Python',
+      'Javascript', 'Typescript', 'Python'
     ],
     backend: [
       'Node.js', 'Express', 'ORM', 'Sequelize',
